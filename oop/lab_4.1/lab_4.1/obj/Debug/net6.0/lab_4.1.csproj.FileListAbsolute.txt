@@ -1,0 +1,15 @@
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\bin\Debug\net6.0\lab_4.1.exe
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\bin\Debug\net6.0\lab_4.1.deps.json
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\bin\Debug\net6.0\lab_4.1.runtimeconfig.json
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\bin\Debug\net6.0\lab_4.1.dll
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\bin\Debug\net6.0\lab_4.1.pdb
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.csproj.AssemblyReference.cache
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.AssemblyInfoInputs.cache
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.AssemblyInfo.cs
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.dll
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\refint\lab_4.1.dll
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.pdb
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\lab_4.1.genruntimeconfig.cache
+D:\MAI\sem3\oop\lab_4.1\lab_4.1\obj\Debug\net6.0\ref\lab_4.1.dll

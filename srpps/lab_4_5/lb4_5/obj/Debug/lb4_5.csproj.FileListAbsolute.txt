@@ -1,0 +1,14 @@
+D:\MAI\sem3\srpps\lb4_5\lb4_5\bin\Debug\lb4_5.exe.config
+D:\MAI\sem3\srpps\lb4_5\lb4_5\bin\Debug\lb4_5.exe
+D:\MAI\sem3\srpps\lb4_5\lb4_5\bin\Debug\lb4_5.pdb
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.csproj.AssemblyReference.cache
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.csproj.SuggestedBindingRedirects.cache
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.Form1.resources
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.Properties.Resources.resources
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.csproj.GenerateResource.cache
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.exe
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.pdb
+D:\MAI\sem3\srpps\lb4_5\lb4_5\bin\Debug\AFClass.dll
+D:\MAI\sem3\srpps\lb4_5\lb4_5\bin\Debug\AFClass.pdb
+D:\MAI\sem3\srpps\lb4_5\lb4_5\obj\Debug\lb4_5.csproj.CopyComplete

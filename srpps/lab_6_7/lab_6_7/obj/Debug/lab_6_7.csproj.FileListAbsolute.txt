@@ -1,0 +1,22 @@
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\bin\Debug\lab_6_7.exe.config
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\bin\Debug\lab_6_7.exe
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\bin\Debug\lab_6_7.pdb
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.csproj.AssemblyReference.cache
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.csproj.SuggestedBindingRedirects.cache
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.Form1.resources
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.Properties.Resources.resources
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.csproj.GenerateResource.cache
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.exe
+D:\MAI\sem3\srpps\lab_6_7\lab_6_7\obj\Debug\lab_6_7.pdb
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.csproj.AssemblyReference.cache
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.csproj.SuggestedBindingRedirects.cache
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.Form1.resources
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.Properties.Resources.resources
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.csproj.GenerateResource.cache
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.exe
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\obj\Debug\lab_6_7.pdb
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\bin\Debug\lab_6_7.exe.config
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\bin\Debug\lab_6_7.exe
+D:\MAI\sem3\srpps\lab_6_7 - Copy\lab_6_7\bin\Debug\lab_6_7.pdb

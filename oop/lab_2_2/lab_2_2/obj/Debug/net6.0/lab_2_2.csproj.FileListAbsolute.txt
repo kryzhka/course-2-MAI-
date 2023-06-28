@@ -1,0 +1,15 @@
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\bin\Debug\net6.0\lab_2_2.exe
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\bin\Debug\net6.0\lab_2_2.deps.json
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\bin\Debug\net6.0\lab_2_2.runtimeconfig.json
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\bin\Debug\net6.0\lab_2_2.dll
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\bin\Debug\net6.0\lab_2_2.pdb
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.csproj.AssemblyReference.cache
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.AssemblyInfoInputs.cache
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.AssemblyInfo.cs
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.dll
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\refint\lab_2_2.dll
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.pdb
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\lab_2_2.genruntimeconfig.cache
+D:\MAI\sem3\oop\lab_2_2\lab_2_2\obj\Debug\net6.0\ref\lab_2_2.dll

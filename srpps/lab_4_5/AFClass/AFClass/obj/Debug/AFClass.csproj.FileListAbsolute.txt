@@ -1,0 +1,6 @@
+D:\MAI\sem3\srpps\lb4_5\AFClass\AFClass\bin\Debug\AFClass.dll
+D:\MAI\sem3\srpps\lb4_5\AFClass\AFClass\bin\Debug\AFClass.pdb
+D:\MAI\sem3\srpps\lb4_5\AFClass\AFClass\obj\Debug\AFClass.csproj.AssemblyReference.cache
+D:\MAI\sem3\srpps\lb4_5\AFClass\AFClass\obj\Debug\AFClass.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\srpps\lb4_5\AFClass\AFClass\obj\Debug\AFClass.dll
+D:\MAI\sem3\srpps\lb4_5\AFClass\AFClass\obj\Debug\AFClass.pdb

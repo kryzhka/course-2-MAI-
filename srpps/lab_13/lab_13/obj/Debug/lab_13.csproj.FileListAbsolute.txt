@@ -1,0 +1,11 @@
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.csproj.SuggestedBindingRedirects.cache
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.Form1.resources
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.Properties.Resources.resources
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.csproj.GenerateResource.cache
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\bin\Debug\lab_13.exe.config
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\bin\Debug\lab_13.exe
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\bin\Debug\lab_13.pdb
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.exe
+D:\MAI\sem3\srpps\lb4_5\lab_13\lab_13\obj\Debug\lab_13.pdb
